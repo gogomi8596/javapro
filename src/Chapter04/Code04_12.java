@@ -17,5 +17,11 @@ public class Code04_12 {
 
         String tr = a.trim();
         System.out.println(tr);
+
+        String b = a.replace(" ", "");
+        System.out.println(a);
+
+        String c = a.replaceFirst(" ", "");
+        System.out.println(a);
     }
 }
