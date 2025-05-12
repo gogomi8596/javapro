@@ -1,3 +1,5 @@
+package Chapter06;
+
 public class Ft6 {
     public static void main(String[] args) {
         for (int i = 0; i <= 3; i++) {
