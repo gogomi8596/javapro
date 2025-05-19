@@ -12,10 +12,8 @@ public class Com {
         my = sc.nextInt();
 
         if (com == my) {
-            break;
         }
         else {
-            continue;
         }
         sc.close();
     }
