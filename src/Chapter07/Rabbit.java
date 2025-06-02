@@ -5,6 +5,12 @@ public class Rabbit {
     private int x;
     private int y;
 
+    public Rabbit(){
+        shape = "기본";
+        x = 30;
+        y = 30;
+    }
+
     public String getShape() {
         return shape;
     }
